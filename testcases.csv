@@ -1,0 +1,10 @@
+testcaseid,description,keywords,cc
+TC001,Check for successful creation of a new account by booking a ticket,Register New User;Book Ticket;Logout,Promocode
+TC002,Login as an existing user & view the ticket details,Login;View Ticket;Logout,
+TC003,Login as an existing user & book a new ticket  using VISA CC,Login;Book Ticket;Logout,VISA
+TC004,Login as an existing user & book a new ticket  using MasterCard CC,Login;Book Ticket;Logout,MasterCard
+TC005,Login as an existing user & book a new ticket  using Discover CC,Login;Book Ticket;Logout,Discover
+TC006,Login as an existing user & book a new ticket  using AMEX CC,Login;Book Ticket;Logout,AMEX
+TC007,Login as existing user - book a new ticket & edit ,Login;Book Ticket;Edit Ticket;Logout,
+TC008,Login as an existing user & cancel an existing ticket,Login;Cancel Ticket;Logout,
+TC009,Use Forgot password to reset credentials & Login,Forgot Password;Login;Logout,
